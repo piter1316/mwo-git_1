@@ -6,6 +6,6 @@ public class SomeProgram {
 	public void manageTheRocket() {
     // TODO implement
 }
-I ♦st
+
 	
 }
